@@ -10,7 +10,7 @@
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)   
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![QtCreator](https://img.shields.io/badge/QtCreator-%2311AB00.svg?style=for-the-badge&logo=qt&logoColor=white)
 ### OS : 
 ![Android](https://img.shields.io/badge/Android_12-3DDC84?style=for-the-badge&logo=android&logoColor=white)
