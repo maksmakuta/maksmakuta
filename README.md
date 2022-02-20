@@ -11,14 +11,11 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)   
+![QtCreator](https://img.shields.io/badge/QtCreator-%2311AB00.svg?style=for-the-badge&logo=qt&logoColor=white)
 ### OS : 
 ![Android](https://img.shields.io/badge/Android_12-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-### Currently work on : 
-[CProcesing](https://github.com/maksmakuta/CProcessing) 
-[mUI](https://github.com/maksmakuta/mUI) 
-[mGL](https://github.com/maksmakuta/mGL)    
-
+### Currently work on Pinned projects  
 ### Contact
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
