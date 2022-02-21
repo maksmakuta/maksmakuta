@@ -22,7 +22,6 @@
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 ## Stats
-
-![maksmakuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=maksmakuta&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksmakuta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!-- v.1.1 -->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/maksmakuta?cardType=github)](https://git.io/awesome-stats-card)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- v.1.2 (21.02.2022) -->
