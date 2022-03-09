@@ -23,5 +23,5 @@
 
 ## Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/maksmakuta?cardType=github)](https://git.io/awesome-stats-card)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksmakuta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- v.1.2 (21.02.2022) -->
