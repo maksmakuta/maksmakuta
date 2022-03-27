@@ -1,4 +1,4 @@
-<!--
+
 # Maks Makuta
 
 ### Languages :
@@ -21,7 +21,7 @@
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
--->
 
-![Metrics](https://metrics.lecoq.io/maksmakuta?template=classic&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FKiev&config.octicon=true)
-<!-- v.1.3 (24.03.2022) -->
+<!--
+![Metrics](https://metrics.lecoq.io/maksmakuta?template=classic&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FKiev&config.octicon=true) -->
+<!-- v.1.3.1 (27.03.2022) -->
