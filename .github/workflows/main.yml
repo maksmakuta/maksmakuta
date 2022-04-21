@@ -18,7 +18,7 @@ jobs:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
-          token: ${{ secrets.personal_account }}
+          token: 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
 
           # Options
           user: maksmakuta
