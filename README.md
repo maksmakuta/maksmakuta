@@ -1,3 +1,4 @@
+<!--
 # Maks Makuta
 
 ### Languages :
@@ -15,8 +16,7 @@
 ### OS : 
 ![Android](https://img.shields.io/badge/Android_12-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
-<!--
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-v.1.4.1 (21.04.2022) 
 -->
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<!-- v.1.4.2 (22.04.2022) -->
