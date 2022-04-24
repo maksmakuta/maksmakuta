@@ -18,5 +18,7 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 -->
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<p align="center" width="100%">
+  <img src="/github-metrics.svg" alt="Metrics">
+</p>
 <!-- v.1.4.2 (22.04.2022) -->
