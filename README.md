@@ -1,5 +1,6 @@
-<!--
-# Maks Makuta
+<p align="center" width="100%">
+  <img src="/github-metrics.svg" alt="Metrics">
+</p>
 
 ### Languages :
 ![C](https://img.shields.io/badge/c11-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -16,9 +17,6 @@
 ### OS : 
 ![Android](https://img.shields.io/badge/Android_12-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
--->
 
-<p align="center" width="100%">
-  <img src="/github-metrics.svg" alt="Metrics">
-</p>
-<!-- v.1.4.2 (22.04.2022) -->
+
+<!-- v.1.4.3 (28.04.2022) -->
