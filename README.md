@@ -21,7 +21,7 @@
   ![QtCreator](https://img.shields.io/badge/QtCreator-%2311AB00.svg?style=for-the-badge&logo=qt&logoColor=white)
   
   ### OS : 
-  ![Android](https://img.shields.io/badge/Android_12-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android_12.1-3DDC84?style=for-the-badge&logo=android&logoColor=white)
   ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 </div>
 
