@@ -9,8 +9,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@main
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
           user: maksmakuta
           template: classic
           base: header, activity, community, repositories, metadata
