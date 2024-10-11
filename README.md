@@ -3,10 +3,10 @@
 I'm a passionate Android/C++ developer. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: Gamedev
-- 🔭 Working on: My own gamedev startup
-- 🌍 Languages: Ukrainian, Engish
+- 🔭 Working in: microGames LLC (gamedev startup)
+- 🌍 Languages: Ukrainian, English
 - 📫 How to reach me: [Mail](mailto:/makuta.maks.mmc@gmail.com)
-- ⚡ Fun fact: I love metal and rock music
+- ⚡ Fun fact: I love hard metal and rock music
 
 ## My Skills 🧠
 
@@ -19,4 +19,4 @@ C++ (mostly C++11 or newer) - no commercial experience, but have lot of projects
 
 **microGames LLC** is a gamedev startup built with C++, OpenGL technologies. This project demonstrates my ability to manage team, develop games, teach teammates. There is no public repository, but we works very well...
 
-<!-- v.3.0 (05.09.2024) -->
+<!-- v.3.0.1 (11.10.2024) -->
