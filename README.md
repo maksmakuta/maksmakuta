@@ -15,8 +15,8 @@ C++ (mostly C++11 or newer) - no commercial experience, but have lot of projects
 
 ## Featured Projects 💻
 
-### [microGames LLC](https://t.me/microGamesLLC)
+### microGames LLC
 
 **microGames LLC** is a gamedev startup built with C++, OpenGL technologies. This project demonstrates my ability to manage team, develop games, teach teammates. There is no public repository, but we works very well...
 
-<!-- v.3.0.1 (11.10.2024) -->
+<!-- v.3.0.2 (1.1.2025) -->
