@@ -2,21 +2,32 @@
 
 I'm a passionate Android/C++ developer. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: Gamedev
-- 🔭 Working in: microGames LLC (gamedev startup)
+- 🌱 Currently learning: Android & Gamedev
+- 🔭 Working in: microGames LLC (gamedev startup), freelance
 - 🌍 Languages: Ukrainian, English
-- 📫 How to reach me: [Mail](mailto:/makuta.maks.mmc@gmail.com)
-- ⚡ Fun fact: I love hard metal and rock music
+- 📫 How to reach me: [Mail](mailto:/makuta.maks.mmc@gmail.com), [LinkedIn](https://www.linkedin.com/in/maksmakuta/), [Telegram](https://t.me/m_makuta)
+- ⚡ Fun fact: I like to draw paintings and play guitar
 
 ## My Skills 🧠
 
-Android (mostly Kotlin+XML) - 1 year of commercial experience, also starting to learn Compose  
-C++ (mostly C++11 or newer) - no commercial experience, but have lot of projects, it's my primary language for now
+Android: (1 year commercial experience)
+ - Use Kotlin+XML as primary tools to build apps | Compose - beginner level
+ - Google Material Design v2 and v3
+ - Use a lot of libraries to communicate with different backends: custom (mostly JSON), Firebase and others
+ - Use simple animations in the UI to improve UX
+ - have minimal experience in creating custom widgets and JNI
+
+C++: (no commercial experience)
+ - Primary platform: Desktop Linux
+ - Use C++ 11 and above with GCC/Clang compilers
+ - Have experience with modern OpenGL 3.3+ and OpenGL ES 2.0+, writing simple shaders mostly for 2D rendering.
+ - Have some knowledge in QT framework v5 and newer
+ - Most code written in OOP paradigm
 
 ## Featured Projects 💻
 
 ### microGames LLC
 
-**microGames LLC** is a gamedev startup built with C++, OpenGL technologies. This project demonstrates my ability to manage team, develop games, teach teammates. There is no public repository, but we works very well...
+Making 2D games for desktop (Windows and Linux) and mobile platforms (Android) with C++17 and OpenGL 3.3+ and OpenGL ES 2.0+   
 
-<!-- v.3.0.2 (1.1.2025) -->
+<!-- v.3.0.3 (30.1.2025) -->
