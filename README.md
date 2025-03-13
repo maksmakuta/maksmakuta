@@ -6,7 +6,6 @@ I'm a passionate Android/C++ developer. I love tackling complex problems, learni
 - 🔭 Working in: -
 - 🌍 Languages: Ukrainian, English
 - 📫 How to reach me: [Mail](mailto:/makuta.maks.mmc@gmail.com), [LinkedIn](https://www.linkedin.com/in/maksmakuta/), [Telegram](https://t.me/m_makuta)
-- ⚡ Fun fact: I like to draw paintings and play guitar
 
 ## My Skills 🧠
 
@@ -17,11 +16,11 @@ Android: (1 year commercial experience)
  - Use simple animations in the UI to improve UX
  - have minimal experience in creating custom widgets and JNI
 
-C++: (no commercial experience)
+C++: (no commercial experience, but i'm working on it)
  - Primary platform: Desktop Linux
  - Use C++ 11 and above with GCC/Clang compilers
  - Have experience with modern OpenGL 3.3+ and OpenGL ES 2.0+, writing simple shaders mostly for 2D rendering.
  - Have some knowledge in QT framework v5 and newer
  - Most code written in OOP paradigm
 
-<!-- v.3.1.0 (07.03.2025) -->
+<!-- v.3.1.1 (13.03.2025) -->
