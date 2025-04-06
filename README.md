@@ -1,11 +1,9 @@
 # Hi there, I'm Maks Makuta! 👋
 
-I'm a passionate Android/C++ developer. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-
-- 🌱 Currently learning: Android & Gamedev
-- 🔭 Working in: -
+- 🌱 Currently learning: Gamedev (C++, OpenGL, GLSL, and other related things)
+- 🔭 Working in: (Finding new job)
 - 🌍 Languages: Ukrainian, English
-- 📫 How to reach me: [Mail](mailto:/makuta.maks.mmc@gmail.com), [LinkedIn](https://www.linkedin.com/in/maksmakuta/), [Telegram](https://t.me/m_makuta)
+- 📫 How to reach me: [Mail](mailto:/makuta.maks.mmc@gmail.com), [LinkedIn](https://www.linkedin.com/in/maksmakuta/)
 
 ## My Skills 🧠
 
@@ -23,4 +21,4 @@ C++: (no commercial experience, but i'm working on it)
  - Have some knowledge in QT framework v5 and newer
  - Most code written in OOP paradigm
 
-<!-- v.3.1.1 (13.03.2025) -->
+<!-- v.3.1.2 (6.04.2025) -->
