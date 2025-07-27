@@ -1,15 +1,24 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maks Makuta
-===================================================================================================================================
+# 👋 Hey, I'm Maks Makuta
 
-C++ Game Developer
-------------------
+I'm building expressive, fast, and modern dev tools. Think Rust+Kotlin+Go had a baby — that's `mlang`.  
+Fan of low-level control with high-level taste.
 
-Game Developer: using C++ and OpenGL to write games, also have experience with Qt5/6, STL, Multithreading
+- 🧵 Games, language design, compilers, and other things
+- 🦀 Use C++, but want to move to Rust,Python or Go
+- 🪵 Currently hacking on: `mlang` – a progressive language with async-first, ADTs, traits, and ownership
 
-*   🌍  I'm based in Ukraine
-*   🚀  I'm currently working on [Tetrablocks](http://github.com/maksmakuta/tetrablocks)
-*   🧠  I'm learning GameDev, C++, Computer Graphics
-*   🤝  I'm open to collaborating on Blockchain, Computer Graphics, GameDev, etc.
-*   ⚡  I am currently looking for a job
+### 🛠️ Stack
+C++20  
+CMake  
+Kotlin/Java for Android  
+I craft code, not spaghetti.
 
-<!-- v.3.3.0 (30.06.2025) -->
+### 📫 Reach out
+
+DMs are open. [LinkedIn](https://www.linkedin.com/in/maksmakuta), [Mail](mailto:makuta.maks.mmc@gmail.com) or drop a PR.
+
+---
+
+> *“Simple is hard. Fast is harder.”* — Me, when debugging UB at 3am
+
+<!-- v.3.4.0 (27.07.2025) -->
