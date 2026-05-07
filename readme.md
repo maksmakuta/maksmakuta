@@ -13,21 +13,6 @@ I'm a software developer with a focus on **low-level systems**, **graphics progr
 
 ---
 
-### 💻 Technical Toolbox
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | C++20/23, Kotlin, C |
-| **Graphics & Systems** | OpenGL 4.6, Custom Interpreters, Font Rendering |
-| **Development** | CMake, Linux (Fedora 44 | KDE Edition) |
-
----
-
-### ✍️ Approach
-I prioritize clean, idiomatic code and leverage modern C++ features to keep projects robust and performant. I enjoy the process of building tools from scratch, whether it's a rendering pipeline or a custom language interpreter.
-
----
-
 ### 📈 GitHub Stats
 ![Maks's GitHub stats](https://github-readme-stats.shion.dev/api?username=maksmakuta&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=maksmakuta&layout=compact&theme=radical)
